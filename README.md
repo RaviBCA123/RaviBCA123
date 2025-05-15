@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RaviBCA123
 - 👀 I’m interested in Web devloping
-- 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning MCA
 
 <!---
 RaviBCA123/RaviBCA123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
