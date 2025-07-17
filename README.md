@@ -13,8 +13,10 @@ I'm passionate about building software solutions, exploring full-stack web devel
 
 ## Projects
 
+-**I-PARK SMART** - Parking System for college devloped using HTML,CSS,JS.
+     https://github.com/RaviBCA123/I-PARK-SMART.git
 - **TechReviewsHub** – A technology review platform for users to share and read reviews on digital products.
-- **Vendor Registration System** – A MERN-based system for managing vendor onboarding and purchase orders.
+- **Vendor Registration Syste** – A MERN-based system for managing vendor onboarding and purchase orders.
   
 
 ## Let's Connect
